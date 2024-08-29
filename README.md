@@ -2,7 +2,7 @@
 
 1. Jawaban nya adalah (case 3 : Isi variabel bulan adalah Maret karena nilai variabel bulan adalah 3, jadi dicocokkan dengan nilai case yang ada didalam switch
 
-```php
+<?php
 $bulan = 3;
 
 switch ($bulan) {
@@ -23,5 +23,3 @@ switch ($bulan) {
         break;
 }
 ?>
-
-# --------------------------------------------------------------------------------------
