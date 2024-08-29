@@ -18,6 +18,9 @@ switch ($bulan) {
     case 5 :
         echo "Isi variabel bulan adalah Mei";
         break;
+    default :
+        echo "Isi variabel tidak ditemukan";
+        break;
 }
 
 ?>
