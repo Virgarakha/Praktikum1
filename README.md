@@ -1,4 +1,4 @@
-#PRAKTIKUM1 PENGENALAN PHP
+### PRAKTIKUM1 PENGENALAN PHP
 
 1. Jawaban nya adalah (case 3 : Isi variabel bulan adalah Maret
    karena nilai variabel bulan adalah 3, jadi dicocokan dengan nilai case yang ada didalam switch
